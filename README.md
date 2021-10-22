@@ -1,0 +1,2 @@
+# Session-Pattern
+Session Pattern es un proyecto dedicado al manejo y creación de patrones como contraseñas de seguridad, el cual con una página de inicio personalizable y un inicio de sesión, servirá para realizar diferentes pruebas de inicio de sesión por medio de patrones, para luego implementarlo en un software o página web que requiera un inicio de sesión por medio de patrones, el programa estará basado en el momento en lenguajes de programación como lo son Python y C++
